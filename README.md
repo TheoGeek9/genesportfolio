@@ -1,11 +1,13 @@
 # Data Analyst/ Data Engineer
 
 ### Education
-Associate of Science
+Associates of Science (Software Development)
+Saint Louis Community College at Forest Park | St. Louis, MO
+
 
 ### Work Experience
 
 
 
 ### Projects
-https://public.tableau.com/app/profile/eugene.roseboro/viz/CovidDashboard_16534864035060/Dashboard1
+https://bit.ly/3VsGbDj
