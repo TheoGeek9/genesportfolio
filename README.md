@@ -1,7 +1,7 @@
 # Data Analyst/ Data Engineer
 
 ### Education
-Associates of Science (Software Development)
+Associates of Science Information Systems(Software Development)
 Saint Louis Community College at Forest Park | St. Louis, MO
 
 
